@@ -1,0 +1,69 @@
+                  repo  stars_count    user
+0                carew            1  fabpot
+1             composer           33  fabpot
+2            doctrine2            0  fabpot
+3       DoctrineBundle            0  fabpot
+4  DoctrineCacheBundle            0  fabpot
+                    stars_count
+user                           
+torvalds           12588.500000
+donnemartin         2260.962963
+mrdoob              1268.800000
+JakeWharton         1042.977011
+afollestad           891.375000
+gorhill              732.047619
+toddmotto            601.027027
+chjj                 500.206349
+mdo                  470.769231
+Unknwon              448.406250
+fzaninotto           444.820513
+rasbt                400.534884
+steipete             388.071429
+bbatsov              374.969697
+ChenYilong           369.192982
+mikepenz             363.629630
+pedrovgs             346.804348
+jakiestfu            345.360000
+SamyPesse            327.650794
+kripken              324.791045
+zenorocha            324.421569
+johnpapa             318.257732
+tj                   313.483271
+numbbbbb             310.216667
+Shougo               303.864407
+CamDavidsonPilon     286.568627
+sebastianbergmann    280.958333
+overtrue             276.490196
+ai                   236.423729
+drakeet              232.906250
+...                         ...
+dougwilson             6.903226
+aaronpk                6.786026
+frsyuki                6.690722
+mjhea0                 6.593172
+josegonzalez           6.480132
+robdodson              6.361702
+parkr                  6.130769
+akrabat                6.018018
+afc163                 5.915966
+QuincyLarson           5.838710
+swankjesse             5.818182
+rafaelfranca           5.813433
+michalbe               5.622222
+kytrinyx               5.509091
+tokuhirom              5.428767
+steveklabnik           5.414155
+dsyer                  4.187793
+weierophinney          3.723684
+cyanogen               3.700000
+andrew                 3.662602
+ashleygwilliams        3.481356
+suissa                 3.461274
+taylorotwell           3.000000
+jeremy                 2.775000
+kittens                2.698529
+stof                   2.674877
+mikermcneil            2.405263
+gdi2290                2.283163
+weaverryan             1.965753
+jiyinyiyong            1.227545
